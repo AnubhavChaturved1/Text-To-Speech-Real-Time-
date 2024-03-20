@@ -1,6 +1,14 @@
-# Real-Time Text-to-Speech
+# Super Sci-Fi Website with Real-Time Text-to-Speech
 
 This project is a super science fictional website featuring a real-time text-to-speech feature. It creates a futuristic atmosphere with glowing effects and advanced CSS techniques.
+
+## Screenshots
+
+![Screenshot]()
+
+## Demo
+
+[View Demo](https://example.com)
 
 ## Features
 
